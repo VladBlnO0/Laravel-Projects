@@ -28,7 +28,6 @@
                     {{ $label }}
                 </a>
             @endforeach
-
         </div>
 
         <ul>
